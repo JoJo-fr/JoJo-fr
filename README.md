@@ -17,9 +17,15 @@ Here are some ideas to get you started:
 
 <h3> I computer science student passionate about computers and new technologies </h3>
 
-<h3> Languages and Tools : </h3>
+<h4> Languages and Tools : </h4>
 
-<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/C++.jpg?raw=true" widht="60" height="60">
-<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/JAVA.jpg?raw=true" widht="60" height="60">
-<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/python.jpg?raw=true" widht="60" height="60">
-<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/html%20css.jpg?raw=true" widht="60" height="60">
+<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/C++.jpg?raw=true" widht="50" height="50">
+<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/JAVA.jpg?raw=true" widht="50" height="50">
+<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/python.jpg?raw=true" widht="50" height="50">
+<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/html%20css.jpg?raw=true" widht="50" height="50">
+<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/gitlab.jpg?raw=true" widht="50" height="50">
+<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/github.jpg?raw=true" widht="50" height="50">
+<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/gitkraken.jpg?raw=true" widht="50" height="50">
+<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/intellij_idea.jpg?raw=true" widht="50" height="50">
+<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/visual&studio&2019.jpg?raw=true" widht="50" height="50">
+<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/vscode.jpg?raw=true" widht="50" height="50">
