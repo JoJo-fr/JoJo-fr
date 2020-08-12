@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 <img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/visual_studio_2019.jpg?raw=true" widht="50" height="50">
 <img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/vscode.jpg?raw=true" widht="50" height="50">
 
-<img ALIGN="center" src="https://github-readme-stats.vercel.app/api?username=JoJo-fr&show_icons=true&count_private=true&theme=dracula">
+<img ALIGN="left" src="https://github-readme-stats.vercel.app/api?username=JoJo-fr&show_icons=true&count_private=true&theme=dracula">
 
-<img ALIGN="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoJo-fr&count_private=true&theme=dracula">
+<img ALIGN="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoJo-fr&count_private=true&theme=dracula">
