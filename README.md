@@ -1,8 +1,3 @@
-### Hi there 👋, I am Geoffrey alias (JoJo)
-
-<h3> I computer science student passionate about computers and new technologies </h3>
-
-
 <!--
 **JoJo-fr/JoJo-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, I am Geoffrey alias (JoJo)
+
+<h3> I computer science student passionate about computers and new technologies </h3>
+
+<h3> Languages and Tools : </h3>
