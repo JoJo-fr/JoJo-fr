@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 <h3> I computer science student passionate about computers and new technologies </h3>
 
 <h3> Languages and Tools : </h3>
+
+<img src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/C++.jpg?raw=true" widht="30" height="30">
+<img src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/JAVA.jpg?raw=true" widht="30" height="30">
+<img src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/python.jpg?raw=true" widht="30" height="30">
+<img src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/html%20css.jpg?raw=true" widht="30" height="30">
