@@ -1,4 +1,8 @@
-### Hi there 👋, I am Geoffrey alias (JoJo), and I computer science student passionate about computers and new technologies 
+### Hi there 👋, I am Geoffrey alias (JoJo)
+
+<h3> I computer science student passionate about computers and new technologies </h3>
+
+
 <!--
 **JoJo-fr/JoJo-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
