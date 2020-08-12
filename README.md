@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 <img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/visual_studio_2019.jpg?raw=true" widht="50" height="50">
 <img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/vscode.jpg?raw=true" widht="50" height="50">
 
-<img ALIGN="center" ![JoJo-fr GitHub Stats] src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true">
+<img ALIGN="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true">
