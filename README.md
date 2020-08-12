@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3> Languages and Tools : </h3>
 
-<img src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/C++.jpg?raw=true" widht="30" height="30">
-<img src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/JAVA.jpg?raw=true" widht="30" height="30">
-<img src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/python.jpg?raw=true" widht="30" height="30">
-<img src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/html%20css.jpg?raw=true" widht="30" height="30">
+<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/C++.jpg?raw=true" widht="60" height="60">
+<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/JAVA.jpg?raw=true" widht="60" height="60">
+<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/python.jpg?raw=true" widht="60" height="60">
+<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/html%20css.jpg?raw=true" widht="60" height="60">
