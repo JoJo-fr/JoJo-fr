@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 <img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/github.jpg?raw=true" widht="50" height="50">
 <img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/gitkraken.jpg?raw=true" widht="50" height="50">
 <img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/intellij_idea.jpg?raw=true" widht="50" height="50">
-<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/visual&studio&2019.jpg?raw=true" widht="50" height="50">
+<img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/visual_studio_2019.jpg?raw=true" widht="50" height="50">
 <img ALIGN="left" src="https://github.com/JoJo-fr/JoJo-fr/blob/master/Picture/vscode.jpg?raw=true" widht="50" height="50">
