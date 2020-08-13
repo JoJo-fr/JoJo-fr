@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h2> Hi there 👋, I am Geoffrey alias (JoJo) <h2>
 <h2> I computer science student passionate about computers and new technologies </h2>
 
-<iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" frameBorder="0" class="giphy-embed"></iframe>
+<img ALIGN="center" src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480">
 
 <h3> Languages and Tools : </h3>
 
